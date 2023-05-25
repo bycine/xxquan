@@ -1,0 +1,12 @@
+---
+
+- taxonomy: 知识备忘
+  icon: fa-lightbulb-o
+  list: 
+    - term: 联盟词汇解释
+      url: ../bakup
+      links:
+        - title: Producthunt
+          logo: assets/images/logos/producthunt.png
+          url: /etst
+          description: 发现新鲜有趣的产品
