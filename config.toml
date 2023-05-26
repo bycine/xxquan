@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://xxquan.org/"
 languageCode = "zh-CN"
 title = "WebStack网址导航 Hugo主题"
 theme = "webstack"
@@ -18,3 +18,5 @@ copyright = ""
     identifier = "menu.home"
     url        = "/"
     weight     = 1
+
+googleAnalytics = "G-JW0XD66PK7"
