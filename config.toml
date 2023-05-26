@@ -1,22 +1,18 @@
 baseURL = "http://xxquan.org/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "信息圈 导航 记录 知识星球"
 theme = "webstack"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
 copyright = ""
 [params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+  author = "xxquan.org"
+  description = "xxquan"
 
 [params.darkmode]
   enable = true
 
-[[menu.main]]
-    name       = "Home"
-    identifier = "menu.home"
-    url        = "/"
-    weight     = 1
+
 
 googleAnalytics = "G-JW0XD66PK7"
